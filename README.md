@@ -1,4 +1,3 @@
-![image](https://github.com/maulida98/databaseminiproject/assets/106392408/25ca7def-d4da-430f-8174-08d2441d2b6a)# databaseminiproject
 A tutorial for database mini project for beginner
 
 First, we will make a database with Oracle. This is pretty simple, but if you're confused with Oracle, let me show you the steps. Before you try this tutorial, you have to download Oracle on your PC first.
